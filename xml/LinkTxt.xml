@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<prml version="2.0.0" type="text/prml">
+	<scene name="link1" cls="_scene.linkScene" title="LINK1">
+		<linkUrl>http://gallery-amano.main.jp/</linkUrl>
+		<_No>1</_No>
+		<_txt>gallery amano／現代美術の作家天野幹夫によるギャラリー</_txt>
+	
+	</scene>
+	<scene name="link2" cls="_scene.linkScene" title="LINK2">
+		<linkUrl>http://msuda.net/</linkUrl>
+		<_No>2</_No>
+		<_txt>SUDA STUDIO／プログラマー&デザイナーの武蔵美の同級生 </_txt>
+	
+	</scene>
+	<scene name="link3" cls="_scene.linkScene" title="LINK3">
+		<linkUrl>http://grafz.net/miyakoshi/</linkUrl>
+		<_No>3</_No>
+		<_txt>宮越暁子のサイト／絵本作家・イラストレーターの武蔵美の同級生</_txt>
+		
+	
+	</scene>
+	<scene name="link4" cls="_scene.linkScene" title="LINK4">
+		<linkUrl>http://d.hatena.ne.jp/sayaka_pinky/</linkUrl>
+		<_No>4</_No>
+		<_txt>コバンザメ通信 in OKINAWA／妻の友人の沖縄blog</_txt>
+	
+	</scene>
+	<scene name="link5" cls="_scene.linkScene" title="LINK5">
+		<linkUrl>http://branch-inc.com/blog/</linkUrl>
+		<_No>5</_No>
+		<_txt>友人で起業した社長のblog/インテリア・デザイン・企画</_txt>
+	
+	</scene>
+	<scene name="link6" cls="_scene.linkScene" title="LINK6">
+		<linkUrl>http://tanoshiikyoushitsu.com/</linkUrl>
+		<_No>6</_No>
+		<_txt>たのしい教室</_txt>
+	
+	</scene>
+	
+		
+</prml>

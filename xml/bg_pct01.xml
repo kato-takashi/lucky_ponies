@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<prml version="2.0.0" type="text/prml">
+	<scene name="bg_image1" cls="IndexScene" title="bg_IMAGE1">
+		<imageUrl>images/pct/bg_image1.jpg</imageUrl>
+		<_No>1</_No>
+		<_txt>design:</_txt>
+	
+	</scene>
+	<scene name="bg_image2" cls="IndexScene" title="bg_IMAGE2">
+		<imageUrl>images/pct/bg_image2.jpg</imageUrl>
+		<_No>2</_No>
+		<_txt>design:</_txt>
+	
+	</scene>
+	<scene name="bg_image3" cls="IndexScene" title="bg_IMAGE3">
+		<imageUrl>images/pct/bg_image3.jpg</imageUrl>
+		<_No>3</_No>
+		<_txt>design:</_txt>
+	
+	</scene>
+	<scene name="bg_image4" cls="IndexScene" title="bg_IMAGE4">
+		<imageUrl>images/pct/bg_image4.jpg</imageUrl>
+		<_No>4</_No>
+		<_txt>design:</_txt>
+	
+	</scene>
+	<scene name="bg_image5" cls="IndexScene" title="bg_IMAGE5">
+		<imageUrl>images/pct/bg_image5.jpg</imageUrl>
+		<_No>5</_No>
+		<_txt>design:</_txt>
+	
+	</scene>
+	<scene name="bg_image6" cls="IndexScene" title="bg_IMAGE6">
+		<imageUrl>images/pct/bg_image6.jpg</imageUrl>
+		<_No>6</_No>
+		<_txt>design:</_txt>
+	
+	</scene>
+	<scene name="bg_image7" cls="IndexScene" title="bg_IMAGE7">
+		<imageUrl>images/pct/bg_image7.jpg</imageUrl>
+		<_No>7</_No>
+		<_txt>design:</_txt>
+		
+	</scene>
+		
+</prml>

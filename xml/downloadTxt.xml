@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<prml version="2.0.0" type="text/prml">
+<scene name="downloadTxt" cls="_scene.downloadScene">
+		<data>2010.09.05</data>
+		<content>
+		こちらのコンテンツは現在制作中です．
+
+		</content>
+		<imageUrl>
+		images/pct/under_contract.jpg
+		</imageUrl>
+		</scene>
+
+	
+</prml>

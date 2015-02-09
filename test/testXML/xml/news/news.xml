@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<list_database>
+<row recordid="1">
+	<day>2010.12.27</day>
+	<content>Teitter始めました。</content>
+	<num>2</num>
+	<url>http://twitter.com/#!/tano_kyoushitsu</url>
+</row>
+<row recordid="2">
+	<day>2011.01.06</day>
+	<content>第一回目は、コピーライターLuckyPonies氏による国語の授業です。</content>
+	<num>3</num>
+	<url>#top_02</url>
+</row>
+<row recordid="3">
+	<day>2011.02.07</day>
+	<content>News-----3＿webテストアップしました。-----News-----3＿webテストアップしました。-----News-----3＿webテストアップしました。-----</content>
+	<num>4</num>
+	<url>#</url>
+</row>
+<row recordid="4">
+	<day>2011.03.08</day>
+	<content>News-----4＿webテストアップしました。</content>
+	<num>5</num>
+	<url>#</url>
+</row>
+<row recordid="5">
+	<day>2011.04.09</day>
+	<content>News-----5＿webテストアップしました。</content>
+	<num>6</num>
+	<url>#</url>
+</row>
+<row recordid="6">
+	<day>2011.06.10</day>
+	<content>News-----6＿webテストアップしました。</content>
+	<num>7</num>
+	<url>#</url>
+</row>
+<row recordid="7">
+	<day>2011.07.11</day>
+	<content>News-----7＿webテストアップしました。</content>
+	<num>8</num>
+	<url>#</url>
+</row>
+<row recordid="8">
+	<day>2011.07.11</day>
+	<content>News-----8＿webテストアップしました。</content>
+	<num>9</num>
+	<url>#</url>
+</row>
+
+<row recordid="9">
+	<day>2011.06.11</day>
+	<content>CHI_GAGANews-----8＿webテストアップしました。</content>
+	<num>9</num>
+	<url>http://mainichi.jp/</url>
+</row>
+
+</list_database>

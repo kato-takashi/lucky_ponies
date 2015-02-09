@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<prml version="2.0.0" type="text/prml">
+	<scene name="2010image1_Scene" cls="_scene.ImageScene" title="2010IMAGE1">
+		<imageUrl>images/pct/works/2010/image1.jpg</imageUrl>
+		<thumb>images/thumb/works/2010/image1.jpg</thumb>
+		<_name>image01</_name>
+		<_list>1</_list>
+		<_txt>歯科医院のホスピタリティ ― チ－ム医療のススメ │ 口腔保健協会│表紙デザイン</_txt>
+		<_year>2010</_year>
+		
+	</scene>
+	<scene name="2010image2_Scene" cls="_scene.ImageScene" title="2010IMAGE2">
+		<imageUrl>images/pct/works/2010/image2.jpg</imageUrl>
+		<thumb>images/thumb/works/2010/image2.jpg</thumb>
+		<_name>image02</_name>
+		<_list>2</_list>
+		<_txt>たのしい教室　株式会社ブランチ│webデザイン、コーディング</_txt>
+		<_year>2010</_year>
+		
+	</scene>
+	<scene name="2010image3_Scene" cls="_scene.ImageScene" title="2010IMAGE3">
+		<imageUrl>images/pct/works/2010/image3.jpg</imageUrl>
+		<thumb>images/thumb/works/2010/image3.jpg</thumb>
+		<_name>image03</_name>
+		<_list>3</_list>
+		<_txt>たのしい教室　株式会社ブランチ│webデザイン、コーディング</_txt>
+		<_year>2010</_year>
+		
+	</scene>
+	<scene name="2010image4_Scene" cls="_scene.ImageScene" title="2010IMAGE4">
+		<imageUrl>images/pct/works/2010/image4.jpg</imageUrl>
+		<thumb>images/thumb/works/2010/image4.jpg</thumb>
+		<_name>image04</_name>
+		<_list>4</_list>
+		<_txt>たのしい教室　株式会社ブランチ│webデザイン、コーディング</_txt>
+		<_year>2010</_year>
+		
+	</scene>
+	<scene name="2010image5_Scene" cls="_scene.ImageScene" title="2010IMAGE5">
+		<imageUrl>images/pct/works/2010/image5.jpg</imageUrl>
+		<thumb>images/thumb/works/2010/image5.jpg</thumb>
+		<_name>image05</_name>
+		<_list>5</_list>
+		<_txt>たのしい教室　株式会社ブランチ│webデザイン、コーディング</_txt>
+		<_year>2010</_year>
+		
+	</scene>
+	
+</prml>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<prml version="2.0.0" type="text/prml">
+<scene name="AboutUsTxt" cls="_scene.aboutUsScene">
+		<data>2010.09.05</data>
+		<content>
+		事業内容：グラフィックデザイン，エディトリアルデザイン，装丁，
+CI計画，ブランディング，Webデザイン，アートディレクション．
+
+従業員：2名
+mail:  lucky.ponies@gmail.com
+
+
+
+
+
+
+
+
+
+
+代表：
+Takashi kato / Designer
+
+2005年　武蔵野美術大学　造形学部　視覚伝達デザイン学科　卒業
+2005年　デザイン事務所　勤務
+2008年　Lucky Ponies. Kato & Kato Design.　設立
+
+ 
+Sonoko kato / Director
+
+2003年　多摩美術大学　美術学部　グラフィックデザイン学科　卒業
+2003年　デザイン事務所，販売職を経験し，独立
+2008年　Lucky Ponies.　入社
+
+
+		</content>
+		<imageUrl>
+		images/pct/Taka4.jpg
+		</imageUrl>
+		</scene>
+
+	
+</prml>

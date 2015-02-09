@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<prml version="2.0.0" type="text/prml">
+	<scene name="2009image1_Scene" cls="_scene.ImageScene" title="2009IMAGE1">
+		<imageUrl>images/pct/works/2009/image1.jpg</imageUrl>
+		<thumb>images/thumb/works/2009/image1.jpg</thumb>
+		<_name>image01</_name>
+		<_list>1</_list>
+		<_txt>作品名1</_txt>
+		<_year>2009</_year>
+		
+		
+	</scene>
+	<scene name="2009image2_Scene" cls="_scene.ImageScene" title="2009IMAGE2">
+		<imageUrl>images/pct/works/2009/image2.jpg</imageUrl>
+		<thumb>images/thumb/works/2009/image2.jpg</thumb>
+		<_name>image02</_name>
+		<_list>2</_list>
+		<_txt>作品名2</_txt>
+		<_year>2009</_year>
+		
+	</scene>
+	<scene name="2009image3_Scene" cls="_scene.ImageScene" title="2009IMAGE3">
+		<imageUrl>images/pct/works/2009/image3.jpg</imageUrl>
+		<thumb>images/thumb/works/2009/image3.jpg</thumb>
+		<_name>image03</_name>
+		<_list>3</_list>
+		<_txt>作品名3</_txt>
+		<_year>2009</_year>
+		
+	</scene>
+	<scene name="2009image4_Scene" cls="_scene.ImageScene" title="2009IMAGE4">
+		<imageUrl>images/pct/works/2009/image4.jpg</imageUrl>
+		<thumb>images/thumb/works/2009/image4.jpg</thumb>
+		<_name>image04</_name>
+		<_list>4</_list>
+		<_txt>作品名4</_txt>
+		<_year>2009</_year>
+		
+	</scene>
+	<scene name="2009image5_Scene" cls="_scene.ImageScene" title="2009IMAGE5">
+		<imageUrl>images/pct/works/2009/image5.jpg</imageUrl>
+		<thumb>images/thumb/works/2009/image5.jpg</thumb>
+		<_name>image05</_name>
+		<_list>5</_list>
+		<_txt>作品名5</_txt>
+		<_year>2009</_year>
+		
+	</scene>
+	<scene name="2009image6_Scene" cls="_scene.ImageScene" title="2009IMAGE6">
+		<imageUrl>images/pct/works/2009/image6.jpg</imageUrl>
+		<thumb>images/thumb/works/2009/image6.jpg</thumb>
+		<_name>image06</_name>
+		<_list>6</_list>
+		<_txt>作品名6</_txt>
+		<_year>2009</_year>
+		
+	</scene>
+	<scene name="2009image7_Scene" cls="_scene.ImageScene" title="2009IMAGE7">
+		<imageUrl>images/pct/works/2009/image7.jpg</imageUrl>
+		<thumb>images/thumb/works/2009/image7.jpg</thumb>
+		<_name>image07</_name>
+		<_list>7</_list>
+		<_txt>作品名7</_txt>
+		<_year>2009</_year>
+		
+	</scene>
+	
+	
+	
+</prml>

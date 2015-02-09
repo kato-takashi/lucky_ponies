@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<prml version="2.0.0" type="text/prml">
+<scene name="index9" cls="IndexScene">
+		<data>2011.08.04</data>
+		<content>Linkを更新しました．
+		</content>
+		</scene>
+
+<scene name="index8" cls="IndexScene">
+		<data>2011.07.27</data>
+		<content>だいぶ放置しててすみません．2010年のworksを更新しました．
+		</content>
+		</scene>
+
+<scene name="index7" cls="IndexScene">
+		<data>2009.06.11</data>
+		<content>2009年のアーカイブが完成しました．2010年は10月ころ更新予定です．
+		</content>
+		</scene>
+<scene name="index6" cls="IndexScene">
+		<data>2009.06.11</data>
+		<content>浜田浄氏，相澤秀人氏，高專寺赫氏，山本秀明氏，天野幹夫氏，濱島有莉氏のアーカイブを更新しました．
+		</content>
+		</scene>
+<scene name="index5" cls="IndexScene">
+		<data>2009.06.10</data>
+		<content>アーカイブ更新しました．
+		</content>
+		</scene>
+<scene name="index4" cls="IndexScene">
+		<data>2009.10.12</data>
+		<content>SWFを更新．
+		</content>
+		</scene>
+<scene name="index3" cls="IndexScene">
+		<data>2010.05.10</data>
+		<content>ひな形完成．seo対策を考える．
+		</content>
+		</scene>
+	<scene name="index2" cls="IndexScene">
+		<data>2009.10.04</data>
+		<content>font完了．</content>
+	</scene>
+	<scene name="index1" cls="IndexScene">
+		<data>2009.10.04</data>
+		<content>imfo.のXML完了．</content>
+	</scene>
+	
+</prml>

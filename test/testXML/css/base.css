@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+ul.news_li {
+list-style-type: square;
+background-color:#C60;
+}
+
+a{
+	text-color:#666;
+	text-decoration:none;
+	}
+	
+
+	
+	a:visited { color: #000080; }
+	a:hover { color: #00ffff; }
+	
+
+
+
+

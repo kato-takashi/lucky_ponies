@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<prml version="2.0.0" type="text/prml">
+<scene name="recruiteTxt" cls="_scene.recruiteScene">
+		<data>2010.09.05</data>
+		<content>
+現在募集を行っておりません。
+
+募集の際は詳細を含め本ページにてご案内させていただきますので、
+よろしくお願い申し上げます。
+
+		</content>
+		<imageUrl>
+		
+		</imageUrl>
+		</scene>
+
+	
+</prml>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<prml version="2.0.0" type="text/prml">
+<scene name="ContactTxt" cls="_scene.cantactScene">
+		<data>2010.09.05</data>
+		<content>
+デザインの依頼などお気軽にメールでご連絡ください。
+担当者よりご連絡させていただきます。
+
+メールアイコンをクリックするとメーラーのアプリケーションが起動します。
+mail:  lucky.ponies@gmail.com
+		</content>
+		<imageUrl>
+		
+		</imageUrl>
+		</scene>
+
+	
+</prml>
